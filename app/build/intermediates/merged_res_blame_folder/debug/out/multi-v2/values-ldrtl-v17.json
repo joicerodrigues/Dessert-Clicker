@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "/home/joicerodrigues/.gradle/caches/transforms-3/496de834de111a5d2a500b3ba166ba7d/transformed/material-1.5.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

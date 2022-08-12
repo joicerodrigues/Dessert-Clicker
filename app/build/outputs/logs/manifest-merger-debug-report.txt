@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/d5be0723c6f172c8b7ffc8d3661f1b84/transformed/databinding-adapters-7.1.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/b01be56b83ce42810e296aa17ea580db/transformed/jetified-databinding-ktx-7.1.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/31e4f34927a15c9276224f6f231e3045/transformed/databinding-runtime-7.1.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /home/joicerodrigues/.gradle/caches/transforms-3/496de834de111a5d2a500b3ba166ba7d/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/4c86b791ce7003b1b27b51eba3c07a91/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/joicerodrigues/.gradle/caches/transforms-3/24b15eb2ddcb5b3d00aaa9df5af787ab/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/8204e499fcf708840aab1b1b3a1618e6/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/c38833fd0c69681cb4f38f01e0cec8b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/joicerodrigues/.gradle/caches/transforms-3/7ec362507b1fc2ae30991df127d68781/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/joicerodrigues/.gradle/caches/transforms-3/d7dda2b588fcab3086ff2215deebdebb/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/joicerodrigues/.gradle/caches/transforms-3/b39e073359af85803c2ad2c996bd1034/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/23337d42d9d5320d4a38f51bca4e8ba2/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/5ea3933fb417e001dc1cc3ff165c0405/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/8bd2c8f4f020908aa36bb9b66321e58d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/6a4eef4097af84686b22a3099c70af95/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/a2edc7d09d8e17fed9e4e93b634687dc/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/83e00c1cda225ddb9e84bbf5690a002a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/9194ce71ce0828960cb6b23de236b240/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/42030292faa7a031124d8bb44dcf27ae/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8b83be59f0ceb0eda719ea903db06513/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/b60014790a6abb6c0fec9c3874ef144b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/657b7db0c88e415e48a75478c65462bd/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/e4e27d3921feab1b3efc27acda5d9fe7/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/joicerodrigues/.gradle/caches/transforms-3/ace6b66c900fe76ca253d40ec88dabf0/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/1131f5a2aa5838530e73019ab83b33bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/153f7b7983977f9ffcddc62816061577/transformed/jetified-viewbinding-7.1.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/d8f7968aebfdb1e90953c7c8b01aa048/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/29ec9c66ffe810e2df511e578acd8bea/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/8b5a172e860c96649635cf241d4ad670/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/4d650d0cc2093e6f3c56e165a357ac70/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/925dd53ea78c032cd223c7f070ec66ac/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/98789e907b6129a23ec1c81008fd48eb/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/d0098791ea68749bb1bc885f40fcb047/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/abba215ae3d02d1fa8970c9e043a5bb9/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/ad4f8dc77474ab3b3c36fa3c9811b093/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/1622b7165c49322ad3f3ad23785add3b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/f7fe8c29a8ceb8de0bdadfd04dfec7d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/b94ca08b4732820ba0eec16b0d4c552f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/cc19bb0f958a68986c690600e7449d29/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/20e2c7238f9a0aaa30398e91d3d594d9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/a5f13627c1842bc9c2641ea923dd2278/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/4f3b789212881bb39175128a28acd9b4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/7cd44554ab1de6bfbafae94dda73337e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:20:5-35:19
+MERGED from [com.google.android.material:material:1.5.0] /home/joicerodrigues/.gradle/caches/transforms-3/496de834de111a5d2a500b3ba166ba7d/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/joicerodrigues/.gradle/caches/transforms-3/496de834de111a5d2a500b3ba166ba7d/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/4c86b791ce7003b1b27b51eba3c07a91/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/4c86b791ce7003b1b27b51eba3c07a91/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/8204e499fcf708840aab1b1b3a1618e6/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/8204e499fcf708840aab1b1b3a1618e6/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/joicerodrigues/.gradle/caches/transforms-3/ace6b66c900fe76ca253d40ec88dabf0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/joicerodrigues/.gradle/caches/transforms-3/ace6b66c900fe76ca253d40ec88dabf0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/1131f5a2aa5838530e73019ab83b33bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/1131f5a2aa5838530e73019ab83b33bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/joicerodrigues/.gradle/caches/transforms-3/ace6b66c900fe76ca253d40ec88dabf0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:24:9-61
+	android:icon
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:22:9-50
+	android:allowBackup
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:27:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/d5be0723c6f172c8b7ffc8d3661f1b84/transformed/databinding-adapters-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/d5be0723c6f172c8b7ffc8d3661f1b84/transformed/databinding-adapters-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/b01be56b83ce42810e296aa17ea580db/transformed/jetified-databinding-ktx-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/b01be56b83ce42810e296aa17ea580db/transformed/jetified-databinding-ktx-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/31e4f34927a15c9276224f6f231e3045/transformed/databinding-runtime-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/31e4f34927a15c9276224f6f231e3045/transformed/databinding-runtime-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /home/joicerodrigues/.gradle/caches/transforms-3/496de834de111a5d2a500b3ba166ba7d/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/joicerodrigues/.gradle/caches/transforms-3/496de834de111a5d2a500b3ba166ba7d/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/4c86b791ce7003b1b27b51eba3c07a91/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/4c86b791ce7003b1b27b51eba3c07a91/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/joicerodrigues/.gradle/caches/transforms-3/24b15eb2ddcb5b3d00aaa9df5af787ab/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/joicerodrigues/.gradle/caches/transforms-3/24b15eb2ddcb5b3d00aaa9df5af787ab/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/8204e499fcf708840aab1b1b3a1618e6/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/8204e499fcf708840aab1b1b3a1618e6/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/c38833fd0c69681cb4f38f01e0cec8b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/c38833fd0c69681cb4f38f01e0cec8b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/joicerodrigues/.gradle/caches/transforms-3/7ec362507b1fc2ae30991df127d68781/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/joicerodrigues/.gradle/caches/transforms-3/7ec362507b1fc2ae30991df127d68781/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/joicerodrigues/.gradle/caches/transforms-3/d7dda2b588fcab3086ff2215deebdebb/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/joicerodrigues/.gradle/caches/transforms-3/d7dda2b588fcab3086ff2215deebdebb/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/joicerodrigues/.gradle/caches/transforms-3/b39e073359af85803c2ad2c996bd1034/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/joicerodrigues/.gradle/caches/transforms-3/b39e073359af85803c2ad2c996bd1034/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/23337d42d9d5320d4a38f51bca4e8ba2/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/23337d42d9d5320d4a38f51bca4e8ba2/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/5ea3933fb417e001dc1cc3ff165c0405/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/5ea3933fb417e001dc1cc3ff165c0405/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/8bd2c8f4f020908aa36bb9b66321e58d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/8bd2c8f4f020908aa36bb9b66321e58d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/6a4eef4097af84686b22a3099c70af95/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/6a4eef4097af84686b22a3099c70af95/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/a2edc7d09d8e17fed9e4e93b634687dc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/a2edc7d09d8e17fed9e4e93b634687dc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/83e00c1cda225ddb9e84bbf5690a002a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/83e00c1cda225ddb9e84bbf5690a002a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/9194ce71ce0828960cb6b23de236b240/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/9194ce71ce0828960cb6b23de236b240/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/42030292faa7a031124d8bb44dcf27ae/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/42030292faa7a031124d8bb44dcf27ae/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8b83be59f0ceb0eda719ea903db06513/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8b83be59f0ceb0eda719ea903db06513/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/b60014790a6abb6c0fec9c3874ef144b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/b60014790a6abb6c0fec9c3874ef144b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/657b7db0c88e415e48a75478c65462bd/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/657b7db0c88e415e48a75478c65462bd/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/e4e27d3921feab1b3efc27acda5d9fe7/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/e4e27d3921feab1b3efc27acda5d9fe7/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/joicerodrigues/.gradle/caches/transforms-3/ace6b66c900fe76ca253d40ec88dabf0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/joicerodrigues/.gradle/caches/transforms-3/ace6b66c900fe76ca253d40ec88dabf0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/1131f5a2aa5838530e73019ab83b33bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joicerodrigues/.gradle/caches/transforms-3/1131f5a2aa5838530e73019ab83b33bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/153f7b7983977f9ffcddc62816061577/transformed/jetified-viewbinding-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] /home/joicerodrigues/.gradle/caches/transforms-3/153f7b7983977f9ffcddc62816061577/transformed/jetified-viewbinding-7.1.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/d8f7968aebfdb1e90953c7c8b01aa048/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/d8f7968aebfdb1e90953c7c8b01aa048/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/29ec9c66ffe810e2df511e578acd8bea/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/29ec9c66ffe810e2df511e578acd8bea/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/8b5a172e860c96649635cf241d4ad670/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/8b5a172e860c96649635cf241d4ad670/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/4d650d0cc2093e6f3c56e165a357ac70/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/4d650d0cc2093e6f3c56e165a357ac70/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/925dd53ea78c032cd223c7f070ec66ac/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/925dd53ea78c032cd223c7f070ec66ac/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/98789e907b6129a23ec1c81008fd48eb/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/98789e907b6129a23ec1c81008fd48eb/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/d0098791ea68749bb1bc885f40fcb047/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/d0098791ea68749bb1bc885f40fcb047/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/abba215ae3d02d1fa8970c9e043a5bb9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/abba215ae3d02d1fa8970c9e043a5bb9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/ad4f8dc77474ab3b3c36fa3c9811b093/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/joicerodrigues/.gradle/caches/transforms-3/ad4f8dc77474ab3b3c36fa3c9811b093/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/1622b7165c49322ad3f3ad23785add3b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/joicerodrigues/.gradle/caches/transforms-3/1622b7165c49322ad3f3ad23785add3b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/f7fe8c29a8ceb8de0bdadfd04dfec7d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/f7fe8c29a8ceb8de0bdadfd04dfec7d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/b94ca08b4732820ba0eec16b0d4c552f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/b94ca08b4732820ba0eec16b0d4c552f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/cc19bb0f958a68986c690600e7449d29/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/cc19bb0f958a68986c690600e7449d29/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/20e2c7238f9a0aaa30398e91d3d594d9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/20e2c7238f9a0aaa30398e91d3d594d9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/a5f13627c1842bc9c2641ea923dd2278/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/a5f13627c1842bc9c2641ea923dd2278/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/4f3b789212881bb39175128a28acd9b4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/4f3b789212881bb39175128a28acd9b4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/7cd44554ab1de6bfbafae94dda73337e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/joicerodrigues/.gradle/caches/transforms-3/7cd44554ab1de6bfbafae94dda73337e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joicerodrigues/AndroidStudioProjects/DessertClicker/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/8837264a33259340cffe6f00e3e1e133/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/joicerodrigues/.gradle/caches/transforms-3/9baa933068921176d6597e7fcdb77d3a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/joicerodrigues/.gradle/caches/transforms-3/d37538b9f9e3bc52d0c9b14064d11ced/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
